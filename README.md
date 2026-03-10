@@ -1,4 +1,5 @@
 <h2 align="left">Hi 👋! My name is Dakota and I'm a Full Stack Developer from Ohio!</h2>
+<h3>I'm looking for work in JavaScript-heavy codebases.</h3>
 
 ###
 
